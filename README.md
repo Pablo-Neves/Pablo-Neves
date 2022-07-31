@@ -1,22 +1,14 @@
 ### Olá! Eu sou Pablo dos Santos Neves 👋
 
+- 🔭 Hoje trabalho na Fartec Sistemas como Analista de Sistemas. Atualmente trabalho com implantação e desenvolvimento em ERP's.
+- 📌 Experiencia :ERPFlex,Sankhya
+- 📚 Flutter,Oracle,HTML,CSS,JS,Java ...
 
 
-
-- 🔭 Hoje trabalho na área de ERP. Tenho experiencia com Sankhya e conhecimento em Protheus
-- 🌱 Estou estudando Front-End. Tenho interesse em seguir a área de Desenvolvimento Mobile ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-
-<div align="center">
+<div align="left">
   <a href="https://github.com/Pablo-Neves">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Pablo-Neves&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pablo-Neves&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Pablo-Neves&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pablo-Neves&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Pablo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -25,7 +17,7 @@
   <img align="center" alt="Pablo-Java" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain.svg">
   <img align="center" alt="Pablo-Oracle" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg">
   <img align="center" alt="Pablo-Flutter" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-plain.svg">
-  <img align="right" alt="Pablo-pic" height="150" style="border-radius:50px;" src="https://onedrive.live.com/?cid=DF87C6862D3E8CBE&id=DF87C6862D3E8CBE%2148587&parId=DF87C6862D3E8CBE%2148580&o=OneUp">
+  
 </div>
   
   ##
@@ -36,6 +28,6 @@
   <a href = "mailto:santosn.pablo@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/pablosneves/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/Pablo-Neves/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/Pablo-Neves/Pablo-Neves/blob/output/github-contribution-grid-snake.svg)
  
 </div>
