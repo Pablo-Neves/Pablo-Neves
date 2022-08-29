@@ -17,6 +17,7 @@
   <img align="center" alt="Pablo-Java" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain.svg">
   <img align="center" alt="Pablo-Oracle" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg">
   <img align="center" alt="Pablo-Flutter" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-plain.svg">
+  <img align="center" alt="Pablo-Flutter" height="30" width="40" src="https://github.com/totvs/advpl-vscode/tree/master/images/icons">
   
 </div>
   
