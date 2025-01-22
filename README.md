@@ -2,7 +2,7 @@
 
 - 🔭 Hoje trabalho na Fartec Sistemas como Analista de Sistemas. Atualmente trabalho com implantação e desenvolvimento em ERP's.
 - 📌 Experiencia :ERPFlex,Sankhya,Protheus
-- 📚 Flutter,Oracle,HTML,CSS,JS,Advpl ...
+- 📚 PL-SQL,HTML,CSS,JS,Advpl ...
 
 
 <div align="center">
@@ -15,7 +15,6 @@
   <img align="center" alt="Pablo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Pablo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Pablo-Oracle" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg">
-  <img align="center" alt="Pablo-Flutter" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-plain.svg">
   <img align="center" alt="Pablo-Advpl" height="30" width="40" src="https://github.com/totvs/advpl-vscode/blob/master/images/icons/icon_advpl.svg">
   
 </div>
